@@ -52,7 +52,9 @@ Manually opening stopwatch.html in your browser.
 📁 Project Structure
 📦 stopwatch-app/
 ├── stopwatch.html         # Main stopwatch application
+
 ├── README.md              # Documentation file (this file)
+
 └── assets/                # (Optional) folder for images/GIFs or additional files
 
 ---
@@ -75,10 +77,12 @@ Scrollable Lap History section
 ---
 
 📄 License
+
 This project is open-source and available under the MIT License.
 
 ---
 
 🧑‍💻 Author
+
 Sameer R
 Intern - SkillCraft Technology – Web Development Track
