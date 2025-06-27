@@ -53,9 +53,9 @@ Manually opening stopwatch.html in your browser.
 📦 stopwatch-app/
 
 ├── stopwatch.html         # Main stopwatch application
-├
+
 ├── README.md              # Documentation file (this file)
-├
+
 └── assets/                # (Optional) folder for images/GIFs or additional files
 
 ---
