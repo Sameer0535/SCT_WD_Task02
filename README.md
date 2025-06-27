@@ -1,5 +1,6 @@
-# SCT_WD_Task02
-⏱ Stopwatch Web Application – VS Code Edition
+# SCT_WD_Task02 - Stopwatch Web Application – VS Code Edition
+
+This repository contains the submission for *Task 1* of the *Web Development Track* under *Skillcraft Technology*. 
 
 ## 📌 Project Overview
 This project is a professional stopwatch web application built with HTML, CSS, and JavaScript. It allows users to start, pause, reset, and record lap times with millisecond precision.
