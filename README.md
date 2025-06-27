@@ -1,13 +1,13 @@
 # SCT_WD_Task02
 ⏱ Stopwatch Web Application – VS Code Edition
 
-##📌 Project Overview
+📌 Project Overview
 This project is a professional stopwatch web application built with HTML, CSS, and JavaScript. It allows users to start, pause, reset, and record lap times with millisecond precision.
 Designed with a modern UI and a smooth dark gradient background, the app was developed and tested in Visual Studio Code and runs on any modern web browser.
 
 ---
 
-##🛠 Technologies Used
+🛠 Technologies Used
 ✅ HTML5 – Structure and layout
 ✅ CSS3 – Styling with gradients, responsiveness, and hover effects
 ✅ Vanilla JavaScript – Timer logic and DOM manipulation
@@ -15,7 +15,7 @@ Designed with a modern UI and a smooth dark gradient background, the app was dev
 
 ---
 
-##🚀 Features
+🚀 Features
  ⏯ Start, Pause, and Reset buttons to control the stopwatch
 📝 Lap Recording: Saves timestamps for each lap
 🧠 Accurate time tracking with millisecond updates
@@ -25,7 +25,7 @@ Designed with a modern UI and a smooth dark gradient background, the app was dev
 
 ---
 
-##🧪 How to Run
+🧪 How to Run
 🔧 Requirements:
 Visual Studio Code (or any code editor)
 A modern web browser (Chrome, Firefox, Edge)
@@ -34,7 +34,7 @@ Manually opening stopwatch.html in your browser.
 
 ---
 
-##📁 Project Structure
+📁 Project Structure
 📦 stopwatch-app/
 ├── stopwatch.html         # Main stopwatch application
 ├── README.md              # Documentation file (this file)
@@ -42,7 +42,7 @@ Manually opening stopwatch.html in your browser.
 
 ---
 
-##🔍 Sample UI Elements
+🔍 Sample UI Elements
 00:00:00 time format (MM:SS:MS)
 Stylish control buttons:
 🟢 Start
@@ -53,11 +53,11 @@ Scrollable Lap History section
 
 ---
 
-##📄 License
+📄 License
 This project is open-source and available under the MIT License.
 
 ---
 
-##🧑‍💻 Author
+🧑‍💻 Author
 Sameer R
 Intern - SkillCraft Technology – Web Development Track
