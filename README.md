@@ -16,7 +16,7 @@ Designed with a modern UI and a smooth dark gradient background, the app was dev
 
 ✅ Vanilla JavaScript – Timer logic and DOM manipulation
 
-🖥 VS Code – Code editor used for development
+🖥 [VS CODE](https://code.visualstudio.com) – Code editor used for development
 
 ---
 
